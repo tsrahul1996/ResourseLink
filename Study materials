@@ -1,0 +1,8 @@
+1. Spring Data REST and show how to use it to build a simple REST API.
+https://www.baeldung.com/spring-data-rest-intro
+
+2. REST service to consume and produce JSON content with Spring Boot.
+https://www.baeldung.com/spring-boot-json
+
+3. Spring Session Tutorial - JDBC Configuration
+https://svlada.com/spring-session-tutorial/
